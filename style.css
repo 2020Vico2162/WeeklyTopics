@@ -1,0 +1,12 @@
+.container {
+    width:90%;
+    margin: auto;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 10% 40% 40% 10%;
+    padding: 10px 0;
+    border-bottom: 1px solid gray;
+}
+div.row:nth-child(even) {background: #CCC}
