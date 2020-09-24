@@ -5,9 +5,13 @@
 
 .row {
     display: grid;
-    grid-template-columns: 10% 40% 40% 10%;
+    grid-template-columns: 10% 5% 40% 40% 5%;
     padding: 10px 5px;
     border-bottom: 1px solid gray;
 }
 
 div.row:nth-child(even) {background: #CCC}
+
+.week1, .week2, .week3, .week4, .week5 {text-decoration: line-through}
+
+.done {text-decoration: line-through}
