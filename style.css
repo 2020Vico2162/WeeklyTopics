@@ -12,7 +12,7 @@
 
 div.row:nth-child(even) {background: #CCC}
 
-.week1, .week2, .week3, .week4, .week5 {text-decoration: line-through}
+.week1, .week2, .week3, .week4, .week5, .week6, .week7 {text-decoration: line-through}
 
 .done {text-decoration: line-through}
 
